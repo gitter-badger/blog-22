@@ -16,7 +16,7 @@ blogtitle: DaneJiang's Blog
 	{{content}}
 
 	<p>---------------------------</p>
-	<p>New Articles</p>
+	<p>Article List</p>
 	<ul>
 		{% for post in site.posts %}
 		<li>{{ post.date | date:"%Y-%m-%d" }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
