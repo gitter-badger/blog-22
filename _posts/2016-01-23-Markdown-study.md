@@ -5,6 +5,9 @@ title: Markdown Study
 
 ## Markdown Study
 
+[Markdown 语法说明 (简体中文版)][1]
+[1]: http://wowubuntu.com/markdown/index.html  "Markdown 语法说明 (简体中文版)"
+
 > This is the first level of quoting.
 >
 > > This is nested blockquote.
@@ -58,8 +61,8 @@ This is [an example](http://example.com/ "Title") inline link.
 
 See my [About](/about/) page for details.
 
-This is [an example][id] reference-style link.
-[id]: http://example.com/  "Optional Title Here"
+This is [an example][2] reference-style link.
+[2: http://example.com/  "Optional Title Here"
 
 *single asterisks*
 
@@ -68,5 +71,42 @@ This is [an example][id] reference-style link.
 un*frigging*believ**able**
 
 \*this text is surrounded by literal asterisks\*
+
+Please don't use any `<blink>` tags.
+
+![Alt text](/path/to/img.jpg "Optional title")
+
+![Alt text][id]
+[id]: url/to/image  "Optional title attribute"
+
+<http://example.com/>
+
+<address@example.com>
+
+\\   反斜线
+
+\`   反引号
+
+\*   星号
+
+\_   底线
+
+\{}  花括号
+
+\[]  方括号
+
+\()  括弧
+
+\#   井字号
+
+\+   加号
+
+\-   减号
+
+\.   英文句点
+
+\!   惊叹号
+
+OVER\!
 
 {{page.date|date:"%Y-%m-%d"}}
