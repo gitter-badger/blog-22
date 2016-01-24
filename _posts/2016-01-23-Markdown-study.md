@@ -6,6 +6,7 @@ title: Markdown Study
 ## Markdown Study
 
 [Markdown 语法说明 (简体中文版)][1]
+
 [1]: http://wowubuntu.com/markdown/index.html  "Markdown 语法说明 (简体中文版)"
 
 > This is the first level of quoting.
@@ -62,7 +63,8 @@ This is [an example](http://example.com/ "Title") inline link.
 See my [About](/about/) page for details.
 
 This is [an example][2] reference-style link.
-[2: http://example.com/  "Optional Title Here"
+
+[2]: http://example.com/  "Optional Title Here"
 
 *single asterisks*
 
