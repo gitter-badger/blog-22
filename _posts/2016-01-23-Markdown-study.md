@@ -49,5 +49,24 @@ Here is an example of AppleScript:
         &copy; 2004 Foo Corporation
     </div>
 
+***
+---
+
+This is [an example](http://example.com/ "Title") inline link.
+
+[This link](http://example.net/) has no title attribute.
+
+See my [About](/about/) page for details.
+
+This is [an example][id] reference-style link.
+[id]: http://example.com/  "Optional Title Here"
+
+*single asterisks*
+
+**double asterisks**
+
+un*frigging*believ**able**
+
+\*this text is surrounded by literal asterisks\*
 
 {{page.date|date:"%Y-%m-%d"}}
