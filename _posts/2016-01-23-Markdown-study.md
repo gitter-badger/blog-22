@@ -5,21 +5,11 @@ title: Markdown Study
 
 ## Markdown Study
 
-Markdown Study.
-
->点点滴滴.
-撒上是什.
-会回发给.
-
 > This is the first level of quoting.
 >
 > > This is nested blockquote.
 >
 > Back to the first level.
-
-段落1
-
-段落2
 
 # H1
 
@@ -40,5 +30,24 @@ Markdown Study.
 1.  Bird
 2.  McHale
 3.  Parish
+
+*   This is a list item with two paragraphs.
+
+    This is the second paragraph in the list item. You're
+only required to indent the first line. Lorem ipsum dolor
+sit amet, consectetuer adipiscing elit.
+
+*   Another item in the same list.
+
+Here is an example of AppleScript:
+
+    tell application "Foo"
+      beep
+    end tell
+    
+    <div class="footer">
+        &copy; 2004 Foo Corporation
+    </div>
+
 
 {{page.date|date:"%Y-%m-%d"}}
