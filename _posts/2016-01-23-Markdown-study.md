@@ -5,9 +5,9 @@ title: Markdown Study
 
 ## Markdown Study
 
-[Markdown 语法说明 (简体中文版)][Markdown Study]
+[Markdown 语法说明 (简体中文版)][1]
 
-[Markdown Study]: http://wowubuntu.com/markdown/index.html  "Markdown 语法说明 (简体中文版)"
+[1]: http://wowubuntu.com/markdown/index.html  "Markdown 语法说明 (简体中文版)"
 
 > This is the first level of quoting.
 >
