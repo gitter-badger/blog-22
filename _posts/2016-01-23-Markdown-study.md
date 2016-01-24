@@ -6,6 +6,7 @@ title: Markdown Study
 ## Markdown Study
 
 [Markdown 语法说明 (简体中文版)][Markdown Study]
+
 [Markdown Study]: http://wowubuntu.com/markdown/index.html  "Markdown 语法说明 (简体中文版)"
 
 > This is the first level of quoting.
@@ -57,11 +58,10 @@ Here is an example of AppleScript:
 
 This is [an example](http://example.com/ "Title") inline link.
 
-[This link](http://example.net/) has no title attribute.
-
 See my [About](/about/) page for details.
 
 This is [an example][id] reference-style link.
+
 [id]: http://example.com/  "Optional Title Here"
 
 *single asterisks*
