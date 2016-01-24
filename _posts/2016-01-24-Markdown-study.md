@@ -3,8 +3,6 @@ layout: Post
 title: Markdown Study.
 ---
 
----
-
 ## Markdown Study
 
 [Markdown 语法说明 (简体中文版)][Markdown Study]
