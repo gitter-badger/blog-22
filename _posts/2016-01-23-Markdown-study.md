@@ -76,9 +76,9 @@ Please don't use any `<blink>` tags.
 
 ![Alt text](/path/to/img.jpg "Optional title")
 
-![Alt text][idd2]
+![Alt text][id2]
 
-[idd2]: url/to/image  "Optional title attribute"
+[id2]: url/to/image  "Optional title attribute"
 
 <http://example.com/>
 
