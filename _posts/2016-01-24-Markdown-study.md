@@ -1,6 +1,6 @@
 ---
 layout: Post
-title: Markdown Study
+title: Markdown Study.
 ---
 
 ## Markdown Study
