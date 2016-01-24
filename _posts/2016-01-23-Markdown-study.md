@@ -5,9 +5,9 @@ title: Markdown Study
 
 ## Markdown Study
 
-[Markdown 语法说明 (简体中文版)][1]
+[Markdown 语法说明 (简体中文版)][Markdown Study]
 
-[1]: http://wowubuntu.com/markdown/index.html  "Markdown 语法说明 (简体中文版)"
+[Markdown Study]: http://wowubuntu.com/markdown/index.html  "Markdown 语法说明 (简体中文版)"
 
 > This is the first level of quoting.
 >
@@ -77,6 +77,7 @@ Please don't use any `<blink>` tags.
 ![Alt text](/path/to/img.jpg "Optional title")
 
 ![Alt text][id2]
+
 [id2]: url/to/image  "Optional title attribute"
 
 <http://example.com/>
