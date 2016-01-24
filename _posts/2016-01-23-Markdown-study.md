@@ -33,4 +33,8 @@ Markdown Study.
 
 ###### H6
 
+*   Red
+*   Green
+*   Blue
+
 {{page.date|date:"%Y-%m-%d"}}
