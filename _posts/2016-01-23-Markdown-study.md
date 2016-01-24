@@ -37,4 +37,8 @@ Markdown Study.
 *   Green
 *   Blue
 
+1.  Bird
+2.  McHale
+3.  Parish
+
 {{page.date|date:"%Y-%m-%d"}}
